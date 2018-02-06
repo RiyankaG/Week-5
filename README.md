@@ -2,7 +2,7 @@
 ------
 
 ### Democracy by Varvara and Mar
-(images/Picture1.png)
+![Varvara and Mar](images/Picture1.png?raw=true "Varvara and Mar")
  
 Source: http://www.varvarag.info/democracy/
 
@@ -11,8 +11,7 @@ This artwork is titled “Democracy” and by artists Varvara and Mar is in the 
 
 
 ### Wishing Wall by  Mar.canet
-
-(images/Picture2.png)
+![Mar.canet](images/Picture1.png?raw=true "Mar.canet")
 
  
 Source: http://www.mcanet.info/blog/?p=615
