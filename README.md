@@ -11,7 +11,7 @@ This artwork is titled “Democracy” and by artists Varvara and Mar is in the 
 
 
 ### Wishing Wall by  Mar.canet
-![Mar.canet](images/Picture1.png?raw=true "Mar.canet")
+![Mar.canet](images/Picture2.png?raw=true "Mar.canet")
 
  
 Source: http://www.mcanet.info/blog/?p=615
